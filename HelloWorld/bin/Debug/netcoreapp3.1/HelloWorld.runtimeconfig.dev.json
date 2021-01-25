@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/adam-garrett-harris/.dotnet/store/|arch|/|tfm|",
+      "/Users/adam-garrett-harris/.nuget/packages"
+    ]
+  }
+}
